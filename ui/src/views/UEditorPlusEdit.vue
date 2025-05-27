@@ -134,7 +134,7 @@ const handleInput = (e: Event) => {
 }
 
 #editor-container {
-  width: 850px;
+  width: 1200px;
   margin: 30px auto 150px auto;
   background-color: #fff;
   padding: 20px 50px 50px 50px;
